@@ -35,9 +35,3 @@ The interpolated images are:
 <img src='https://github.com/benjaminbenteke/Axiomatic-Attribution-for-DeepNetwork/blob/main/ig_result.png' width= 40% height= 40% align="right">
 
 <img src='https://github.com/benjaminbenteke/Axiomatic-Attribution-for-DeepNetwork/blob/main/grad.png' width= 40%  height= 40% align="left"> 
-
-
-  
-# Contributors #
-<h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="https://raw.githubusercontent.com/benjaminbenteke/Deep_RL_Project/master/images/bennn.jpg" height= 7% width= 7%>
-
