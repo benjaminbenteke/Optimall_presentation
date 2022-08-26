@@ -17,6 +17,8 @@ In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for De
 
 Whereas, this presentation focus on <b> An Object Recognition task </b>.
 
+Go to: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb)
+
 ## Results
 The original image is:
 
@@ -35,10 +37,5 @@ The interpolated images are:
 <br>
   
 # Contributors #
-<div style="display:flex;align-items:center">
+<h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="https://raw.githubusercontent.com/benjaminbenteke/Deep_RL_Project/master/images/bennn.jpg" height= 7% width= 7%>
 
-<div style="display:flex;align-items:center">
-    <div>
-        <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="https://raw.githubusercontent.com/benjaminbenteke/Deep_RL_Project/master/images/bennn.jpg" height= 7% width= 7%>
-<div>
-<div>
