@@ -28,7 +28,7 @@ The original image is:
 
 The interpolated images are:
 
-<img src='https://github.com/benjaminbenteke/Axiomatic-Attribution-for-DeepNetwork/blob/main/interpolated_images.png' width= 50% height= 70%>
+<img src='https://github.com/benjaminbenteke/Axiomatic-Attribution-for-DeepNetwork/blob/main/interpolated_images.png' width= 50% height= 50%>
 
 <b> Experimentation results: </b> The left and right figures represent </b> gradient method </b> result and <b> Integrated Gradient method </b> results respectively. As you can see, <b> Integrated Gradient method </b> works better than <b> Gradient method </b>, because it the Integrated Gradient image seems the original image. See the Attention mask image et Attention mask + original image.
 
