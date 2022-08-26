@@ -37,7 +37,7 @@ The interpolated images are:
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="images/bennn.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="[images/bennn.jpg](https://raw.githubusercontent.com/benjaminbenteke/Deep_RL_Project/master/images/bennn.jpg)" height= 7% width= 7%>
 <div>
     <h5> <a href='https://github.com/Maramy93'> Maram A. Abdelrahman Mohamed </a> </h5> <img src="images/maram.jpeg" height= 7% width= 7%>
     
