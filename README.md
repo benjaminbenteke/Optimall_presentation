@@ -20,7 +20,7 @@ Whereas, this presentation focus on <b> An Object Recognition task </b>.
 ## Results
 The original image is:
 
-<img src='70bfca4555cca92e.jpg' width= 50%>
+<img src='https://github.com/benjaminbenteke/Axiomatic-Attribution-for-DeepNetwork/blob/main/70bfca4555cca92e.jpg' width= 50%>
 
 The interpolated images are:
 
