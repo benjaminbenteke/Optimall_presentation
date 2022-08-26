@@ -10,7 +10,7 @@ In <a href= 'https://arxiv.org/pdf/1703.01365.pdf'> Axiomatic Attribution for De
 <ol>
   <li> <b> An Object Recognition Network </b> </li>
   <li> <b> Diabetic Retinopathy Prediction </b> </li>
-  <li> <b> Question Classification </b> </li>
+  <li> <b> Text Classification </b> </li>
   <li> <b> Neural Machine Translation </b> </li>
   <li> <b> Chemistry Models </b> </li> 
 </ol>
